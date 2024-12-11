@@ -1,1 +1,3 @@
 # Diabetes-Healthcare-Dataset
+
+In this project, I conducted a comprehensive analysis of a diabetes dataset, starting with data acquisition and exploration to understand its structure and attributes. Key steps included data preprocessing, such as feature scaling using MinMaxScaler and encoding categorical variables to prepare the data for machine learning. I built and evaluated multiple models, including Logistic Regression, K-Nearest Neighbors (KNN), Random Forest, Support Vector Machines (SVM), and XGBoost. Model performance was assessed using metrics like accuracy, classification reports, and confusion matrices. This project demonstrated my ability to preprocess data, implement machine learning pipelines, and evaluate models effectively.
